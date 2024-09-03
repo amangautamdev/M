@@ -3,7 +3,8 @@
   "request-timeout": 5,
   "output": "accounts.txt",
   "services": [
-    "bluealts"
+    "bluealts",
+    "proalts"
   ],
   "url": {
     "bluealts": [
